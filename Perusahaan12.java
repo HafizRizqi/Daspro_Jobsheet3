@@ -17,7 +17,5 @@ public class Perusahaan12 {
 
         double totalGaji = gajiKotor - pajak;
         System.out.println("Total Gaji Karyawan: Rp " + totalGaji);
-
-
     }
 }
